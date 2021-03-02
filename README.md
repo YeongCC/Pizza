@@ -16,7 +16,7 @@ By developing this project, we can achieve the objective below
 
 using the JavaFX to develop the Ordering Pizza system
 ## Attention
-In the pizza file can directly use the application
+-In the Pizza file can directly use the application
 
 ## Requirement Software
 - Neatbean (better version is 8.2RC)
