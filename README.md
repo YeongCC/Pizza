@@ -15,10 +15,10 @@ By developing this project, we can achieve the objective below
 - Can Change different receive address
 
 using the JavaFX to develop the Ordering Pizza system
-### Attention
+## Attention
 In the pizza file can directly use the application
 
-#### Requirement Software
+## Requirement Software
 - Neatbean (better version is 8.2RC)
 
 - JDK (better version is jdk-8u111-nb-8_2-windows-x64)
